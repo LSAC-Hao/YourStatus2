@@ -15,6 +15,11 @@ Ionic v2 is selected for this project. At this time Ionic v2 is still in beta.
 4) cd d:\YourStatus2; delete app and www folders; unzip app and www folders from this repository into d:\YourStatus2.
 ~~~
 
+## Tools to create UI and code development
+Ionic Creator is what I used to create UI views of this project (https://creator.ionic.io)
+Once UI was created, export them offline into a zip file, extracted html files into the project. I used Visual Studio Code as my code editors to develop those javascript code.
+
+## 
 ## Build
 Additional enviroment requirement and packages may be applied.
 ~~~
